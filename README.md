@@ -74,7 +74,7 @@ En conclusión, las revoluciones latinoamericanas, vistas a través de Arendt y 
 Link a prueba en Gemini: https://g.co/gemini/share/64130ecdebd3
 
 ---
-# Prompt 2: LLM **Flash 2.5 Pro (experimental) de Gemini**
+## Prompt 2: LLM **Flash 2.5 Pro (experimental) de Gemini**
 
 ```undefined
 Eres un historiador nacido en Alemania, especializado en Historia Latinoamericana, ademas con formacion en antropologia,  sociologia y psicologia.
